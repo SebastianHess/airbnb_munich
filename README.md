@@ -45,10 +45,47 @@ Data Source Date Compiled: 24 December, 2021
 
 > MY Github repository: [here](https://github.com/SebastianHess/airbnb_munich)
 
+>> 02_Project_airbnb_munich_Seb_Hess.ipynb
+>> README.md
+
 > Data Source (Date Compiled: 24 December, 2021): [here](http://data.insideairbnb.com/germany/bv/munich/2021-12-24/visualisations/listings.csv)
 
 
 ## Results<a name="results"></a>
+
+Based on the analysis, when visiting Munich and renting an apartment on Airbnb you should:
+
+1. Book your apartment with adequate time upfront.
+
+2. Consider the following districts first to find an good quality apartment:
+> Ludwigsvorstadt-Isarvorstadt
+> Au-Haidhausen
+> Schwabing-West
+
+3. Design your own preferences: Choose an apartment you feel comfortable with.
+
+Most expensive districts:
+> Altstadt-Lehel
+> Schwanthalerhöhe
+> Ludwigvorstadt-Isarvorstadt
+
+Least expensive districts:
+> Aubing-Lochhausen-Langwied
+> Milbertshofen-Am Hart
+
+Higher priced room type:
+> Entire home / Entire apartment
+> Hotel room
+
+Lower priced room type:
+> Private room
+> Share room
+
+Biggest price ranged room type:
+> Entire home / Entire apartment
+> Private room
+
+This is a basic analysis to show the possibilities of a machine learning model. Further and more in-depth analysis and projects could examine the user rating rating to find out how truthful the ratings are.
 
 My Medium Blog: [here](https://medium.com/@sebastian.sh.hess/data-science-airbnb-munich-machine-learning-analysis-755761031699)
 
