@@ -1,3 +1,5 @@
+## Data Science: Airbnb Munich - Machine Learning Analysis.
+
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -9,34 +11,49 @@
 
 ## Installation <a name="installation"></a>
 
-It is not necessary to install additional libraries to run the code beyond Anaconda. Everything will run perfectly with a Python 3.x version.
+Everything will run with a Python 3.x version.
+It is necessary to install the following libraries to run the code in Anaconda. 
+
+> OS a python module which priveds functions for interacting with the operating system OS.
+> Numpy a Python library for working with arrays.
+> Pandas a Python library for data manipulating and analysis.
+> pd.pandas.set_option( ) a Pandas option to visualise all of the columns in a data frame.
+> folium a Pandas library to visualise interactive maps.
+> Matplotlib a Python library for data visualizations.
+> %matplotlib inline a magic function for inline plotting of graphs.
+> sklearn.linear_model a class of the sklearn module containing different functions for performing machine learning with linear models.
+> sklearn.model_selection a class of the sklearn module splitting the data in train and test data.
+> sklearn.metrics a class of the sklearn metrics to use with any continous response variable.
+> Seaborn a Python library for data visuallization based on matplotlib.
+> sns.set_style to define the seaborn figure aesthetic as "darkgrid".
+> dataframe_image to save pictures of data frames.
 
 
 ## Project Motivation<a name="motivation"></a>
 
-I am living in Munich and when I travel to other places and countries I usually use Airbnb a lot. Considering always the same questions as probaly everyone in my case.
+I live in Munich and when I travel to other places and countries, I mostly use the Airbnb platform. I guess each one of you knows what I am talking about. Therefore, I would like to answer these questions for my hometown Munich based on a data set provided by Insideairbnb.com.
 
-1. Will I find quickly an suitable apartment?
-2. Do I have to share my apartment or will I spent al the time there alone?
-3. What factors contributed to an appropriate price?
-4. Which district shall I choose based on an appropriate price?
-5. Which influence does the season have to an appropriate price? 
+1. Will I quickly find a suitable apartment in Munich?
+2. Which district is the most chosen one based on the best ratings?
+3. Which apartments are not attractive at all in Munich?
+4. What features are contributing to estimate the price of an apartment?
 
-This project was also part of my Udacity Data Scientist Nanodegree and helped me to improve my skills and knowledge about data analytics.
+Data Source Date Compiled: 24 December, 2021
 
 
 ## File Descriptions <a name="files"></a>
 
-Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
+> MY Github repository: [here](https://github.com/SebastianHess/airbnb_munich)
+
+> Data Source (Date Compiled: 24 December, 2021): [here](http://data.insideairbnb.com/germany/bv/munich/2021-12-24/visualisations/listings.csv)
 
 
 ## Results<a name="results"></a>
 
-Link to post on medium [here](https://medium.com/xxx).
+My Medium Blog: [here](https://medium.com/@sebastian.sh.hess/data-science-airbnb-munich-machine-learning-analysis-755761031699)
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Thanks to Airbnb and Link to data sources
-
-[here](https://www.kaggle.com/xxx).  Otherwise, feel free to use the code here as you would like! 
+Thanks to Inside Airbnb for the free available data set.
+Thanks to Udacity for the amazing Data Scientist Nanodegree Programm.
