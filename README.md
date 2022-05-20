@@ -47,6 +47,7 @@ MY Github repository: [here](https://github.com/SebastianHess/airbnb_munich)
 
 * 02_Project_airbnb_munich_Seb_Hess.ipynb
 * README.md
+* listings.csv
 
 > Data Source (Date Compiled: 24 December, 2021): [here](http://data.insideairbnb.com/germany/bv/munich/2021-12-24/visualisations/listings.csv)
 
