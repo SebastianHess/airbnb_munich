@@ -14,19 +14,19 @@
 Everything will run with a Python 3.x version.
 It is necessary to install the following libraries to run the code in Anaconda. 
 
-> OS a python module which priveds functions for interacting with the operating system OS.
-> Numpy a Python library for working with arrays.
-> Pandas a Python library for data manipulating and analysis.
-> pd.pandas.set_option( ) a Pandas option to visualise all of the columns in a data frame.
-> folium a Pandas library to visualise interactive maps.
-> Matplotlib a Python library for data visualizations.
-> %matplotlib inline a magic function for inline plotting of graphs.
-> sklearn.linear_model a class of the sklearn module containing different functions for performing machine learning with linear models.
-> sklearn.model_selection a class of the sklearn module splitting the data in train and test data.
-> sklearn.metrics a class of the sklearn metrics to use with any continous response variable.
-> Seaborn a Python library for data visuallization based on matplotlib.
-> sns.set_style to define the seaborn figure aesthetic as "darkgrid".
-> dataframe_image to save pictures of data frames.
+* OS a python module which priveds functions for interacting with the operating system OS.
+* Numpy a Python library for working with arrays.
+* Pandas a Python library for data manipulating and analysis.
+* pd.pandas.set_option( ) a Pandas option to visualise all of the columns in a data frame.
+* folium a Pandas library to visualise interactive maps.
+* Matplotlib a Python library for data visualizations.
+* %matplotlib inline a magic function for inline plotting of graphs.
+* sklearn.linear_model a class of the sklearn module containing different functions for performing machine learning with linear models.
+* sklearn.model_selection a class of the sklearn module splitting the data in train and test data.
+* sklearn.metrics a class of the sklearn metrics to use with any continous response variable.
+* Seaborn a Python library for data visuallization based on matplotlib.
+* sns.set_style to define the seaborn figure aesthetic as "darkgrid".
+* dataframe_image to save pictures of data frames.
 
 
 ## Project Motivation<a name="motivation"></a>
