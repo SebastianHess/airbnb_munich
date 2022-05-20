@@ -64,24 +64,24 @@ Based on the analysis, when visiting Munich and renting an apartment on Airbnb y
 
 3. Design your own preferences: Choose an apartment you feel comfortable with.
 
-Most expensive districts:
+ Most expensive districts:
 * Altstadt-Lehel
 * Schwanthalerhöhe
 * Ludwigvorstadt-Isarvorstadt
 
-Least expensive districts:
+ Least expensive districts:
 * Aubing-Lochhausen-Langwied
 * Milbertshofen-Am Hart
 
-Higher priced room type:
+ Higher priced room type:
 * Entire home / Entire apartment
 * Hotel room
 
-Lower priced room type:
+ Lower priced room type:
 * Private room
 * Share room
 
-Biggest price ranged room type:
+ Biggest price ranged room type:
 * Entire home / Entire apartment
 * Private room
 
