@@ -64,6 +64,7 @@ Based on the analysis, when visiting Munich and renting an apartment on Airbnb y
 
 3. Design your own preferences: Choose an apartment you feel comfortable with.
 
+
   Most expensive districts:
 * Altstadt-Lehel
 * Schwanthalerhöhe
