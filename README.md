@@ -94,5 +94,7 @@ My Medium Blog: [here](https://medium.com/@sebastian.sh.hess/data-science-airbnb
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Thanks to Inside Airbnb for the free available data set.
-Thanks to Udacity for the amazing Data Scientist Nanodegree Programm.
+* Thanks to my employer for enabling me to take the Udacity Nanodegree and for supporting me.
+* Thanks to Alessandra and Emil, who read my work, discussed it with me and gave me very valuable tips for improvement.
+* Thanks to Inside Airbnb for the free available data set.
+* Thanks to Udacity for the amazing Data Scientist Nanodegree Programm.
